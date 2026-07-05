@@ -53,7 +53,8 @@ directory, and never needs root.
 
 ## Credits
 
-Derived from **Daemon MK2** by **Mathis Paquet**; cursor by **CORVIAN**. Full
+Kvantum/Qt theme derived from **Daemon MK2** by **Mathis Paquet**; GTK theme
+generated with **Oomox/Themix** on a **Numix** base; cursor by **CORVIAN**. Full
 attribution in [`CREDITS.md`](CREDITS.md).
 
 ## License

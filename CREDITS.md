@@ -11,6 +11,16 @@ The **Hackerer** theme is a derivative work. It exists because of the projects b
 - Licensed under the **GNU GPL v3** (see `LICENSE`). The derivative retains the
   same license as required by the GPL.
 
+## GTK theme
+
+- The `Hackerer-Dark` GTK theme (`gtk/Hackerer-Dark.zip`) was **generated with
+  [Oomox / Themix Theme Designer](https://github.com/themix-project/oomox)**,
+  which builds on the **[Numix GTK theme](https://github.com/numixproject/numix-gtk-theme)**
+  (`# Oomox GTK Theme (Numix Fork)`).
+- Only the color scheme (green-on-black) is ours; the widget structure and
+  murrine engine styling come from Numix via Oomox.
+- Numix and Oomox are both **GNU GPL v3**, matching this project's license.
+
 ## Cursor
 
 - **broodwar** cursor by **CORVIAN** — <https://store.kde.org/p/1680392>
