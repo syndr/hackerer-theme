@@ -25,7 +25,9 @@ The **Hackerer** theme is a derivative work. It exists because of the projects b
 
 - **broodwar** cursor by **CORVIAN** — <https://store.kde.org/p/1680392>
 - StarCraft / Brood War trademarks are property of Blizzard Entertainment. The
-  cursor is redistributed here for convenience; see `cursors/README.md`.
+  cursor is redistributed here for convenience and is not covered by this
+  repository's GPLv3; see `cursors/README.md`.
+- The hyprcursor build is a format conversion of the same images.
 
 ## Icon theme (not bundled)
 
