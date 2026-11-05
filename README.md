@@ -61,3 +61,6 @@ attribution in [`CREDITS.md`](CREDITS.md).
 
 **GNU GPL v3** (`GPL-3.0-or-later`) — see [`LICENSE`](LICENSE). As a derivative of
 the GPL-licensed Daemon theme, this project keeps the same license.
+
+Exception: the bundled `broodwar` cursor is third-party artwork, not covered by
+the GPL. See [`cursors/README.md`](cursors/README.md).
